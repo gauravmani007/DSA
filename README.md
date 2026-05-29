@@ -21,10 +21,12 @@ Increasing thinking approach.
 | [0014-longest-common-prefix](https://github.com/gauravmani007/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
