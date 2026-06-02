@@ -22,6 +22,7 @@ Increasing thinking approach.
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,10 +40,12 @@ Increasing thinking approach.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/gauravmani007/DSA/tree/main/0061-rotate-list/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +67,12 @@ Increasing thinking approach.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/gauravmani007/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
