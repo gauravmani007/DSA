@@ -11,6 +11,7 @@ Increasing thinking approach.
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gauravmani007/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gauravmani007/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/gauravmani007/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ Increasing thinking approach.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravmani007/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/gauravmani007/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +80,8 @@ Increasing thinking approach.
 | ------- | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravmani007/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/gauravmani007/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
