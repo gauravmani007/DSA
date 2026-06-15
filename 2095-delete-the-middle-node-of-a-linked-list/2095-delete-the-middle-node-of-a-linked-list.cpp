@@ -11,33 +11,64 @@
 class Solution {
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        if(head==NULL || head->next==NULL) return NULL;
+        
+        if(head == NULL || head->next == NULL){
+            return NULL;
+        }
+
         ListNode* temp = head;
         int count = 0;
 
-        while(temp!= nullptr){
+        while(temp != nullptr){
             count++;
             temp = temp->next;
         }
 
-        count = count/2;
+        int mid = count/2;
 
-        ListNode* curr = head;
-        ListNode* prev=NULL;
+        temp = head;
+        ListNode* prev = nullptr;
 
-        int i = 0;
-        while(curr!=NULL){
-            if(i!=count){
-                i++;
-                prev=curr;
-                curr=curr->next;
-            }else{
-                prev->next=curr->next;
-                delete curr;
-                break;
-            }
+        for(int i=0; i<mid; i++){
+            prev = temp;
+            temp = temp->next;
+
         }
 
-        return head;
+            prev->next = temp->next;
+            delete temp;
+
+
+         return head;          
     }
 };
+    //     if(head==NULL || head->next==NULL) return NULL;
+    //     ListNode* temp = head;
+    //     int count = 0;
+
+    //     while(temp!= nullptr){
+    //         count++;
+    //         temp = temp->next;
+    //     }
+
+    //     count = count/2;
+
+    //     ListNode* curr = head;
+    //     ListNode* prev=NULL;
+
+    //     int i = 0;
+    //     while(curr!=NULL){
+    //         if(i!=count){
+    //             i++;
+    //             prev=curr;
+    //             curr=curr->next;
+    //         }else{
+    //             prev->next=curr->next;
+    //             delete curr;
+    //             break;
+    //         }
+    //     }
+
+    //     return head;
+    // }
+// };
