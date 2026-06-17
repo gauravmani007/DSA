@@ -11,6 +11,7 @@ Increasing thinking approach.
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gauravmani007/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gauravmani007/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/gauravmani007/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gauravmani007/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -85,5 +86,6 @@ Increasing thinking approach.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/gauravmani007/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/gauravmani007/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
