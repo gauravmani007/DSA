@@ -23,6 +23,7 @@ Increasing thinking approach.
 | [0014-longest-common-prefix](https://github.com/gauravmani007/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/gauravmani007/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauravmani007/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -63,6 +64,7 @@ Increasing thinking approach.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/gauravmani007/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
