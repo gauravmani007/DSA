@@ -8,6 +8,7 @@ Increasing thinking approach.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/gauravmani007/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0796-rotate-string](https://github.com/gauravmani007/DSA/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/gauravmani007/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gauravmani007/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gauravmani007/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -70,6 +71,7 @@ Increasing thinking approach.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gauravmani007/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gauravmani007/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/gauravmani007/DSA/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Trie
@@ -96,5 +98,6 @@ Increasing thinking approach.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gauravmani007/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/gauravmani007/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
