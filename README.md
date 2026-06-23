@@ -61,6 +61,7 @@ Increasing thinking approach.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauravmani007/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Increasing thinking approach.
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/gauravmani007/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauravmani007/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
