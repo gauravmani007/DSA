@@ -23,6 +23,7 @@ Increasing thinking approach.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/gauravmani007/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/gauravmani007/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -49,6 +50,7 @@ Increasing thinking approach.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/gauravmani007/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/gauravmani007/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravmani007/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
