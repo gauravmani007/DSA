@@ -40,6 +40,7 @@ Increasing thinking approach.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gauravmani007/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Increasing thinking approach.
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauravmani007/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gauravmani007/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
