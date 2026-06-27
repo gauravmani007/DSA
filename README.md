@@ -26,6 +26,7 @@ Increasing thinking approach.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0189-rotate-array](https://github.com/gauravmani007/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/gauravmani007/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gauravmani007/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/gauravmani007/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -40,6 +41,7 @@ Increasing thinking approach.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0189-rotate-array](https://github.com/gauravmani007/DSA/tree/main/0189-rotate-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravmani007/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Matrix
@@ -57,6 +59,7 @@ Increasing thinking approach.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/gauravmani007/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/gauravmani007/DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/gauravmani007/DSA/tree/main/0189-rotate-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravmani007/DSA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
