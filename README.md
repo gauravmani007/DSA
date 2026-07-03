@@ -35,6 +35,7 @@ Increasing thinking approach.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravmani007/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauravmani007/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/gauravmani007/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravmani007/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravmani007/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -71,11 +72,13 @@ Increasing thinking approach.
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravmani007/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauravmani007/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauravmani007/DSA/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauravmani007/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 ## Sliding Window
@@ -159,12 +162,19 @@ Increasing thinking approach.
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauravmani007/DSA/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauravmani007/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauravmani007/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/gauravmani007/DSA/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
