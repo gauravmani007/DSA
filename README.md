@@ -30,6 +30,7 @@ Increasing thinking approach.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravmani007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/gauravmani007/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/gauravmani007/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauravmani007/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/gauravmani007/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/gauravmani007/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/gauravmani007/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -106,6 +107,7 @@ Increasing thinking approach.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauravmani007/DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/gauravmani007/DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauravmani007/DSA/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gauravmani007/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
