@@ -26,6 +26,7 @@ Increasing thinking approach.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/gauravmani007/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravmani007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/gauravmani007/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/gauravmani007/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -80,6 +81,7 @@ Increasing thinking approach.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/gauravmani007/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravmani007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/gauravmani007/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
@@ -137,6 +139,7 @@ Increasing thinking approach.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/gauravmani007/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauravmani007/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauravmani007/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
