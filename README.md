@@ -26,6 +26,7 @@ Increasing thinking approach.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/gauravmani007/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/gauravmani007/DSA/tree/main/0048-rotate-image/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravmani007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/gauravmani007/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/gauravmani007/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/gauravmani007/DSA/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -79,6 +80,7 @@ Increasing thinking approach.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gauravmani007/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/gauravmani007/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1871-jump-game-vii](https://github.com/gauravmani007/DSA/tree/main/1871-jump-game-vii/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/gauravmani007/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
